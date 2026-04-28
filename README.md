@@ -16,14 +16,13 @@ Passionate about building intelligent systems, solving real-world problems, and 
 - 🎯 Data Scientist with strong interest in Machine Learning, Generative AI, and Reinforcement Learning  
 - 💻 Full Stack Developer with MERN Stack experience  
 - 🧠 Strong problem-solving mindset with competitive coding experience  
-- 📈 Always learning and building impactful projects  
-- 🏆 Team leader who thrives in hackathons and innovation challenges  
+- 📈 Always learning and building impactful projects   
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Team Leader - Meta Hackathon organized by Scaler**  
+- 🥇 **Led my team to Finals in Meta Hackathon organized by Scaler**  
 - 🚀 Reached **Top 800 Teams out of 32,000+ Teams Nationwide**  
 - 👨‍💻 Solved **300+ DSA Problems** on coding platforms  
 - 🎬 Built a **Movie Recommendation System** using Machine Learning  
