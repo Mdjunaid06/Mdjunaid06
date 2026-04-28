@@ -91,7 +91,7 @@ Passionate about building intelligent systems, solving real-world problems, and 
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/mohammad-junaid-80452a286
+- 💼 LinkedIn: www.linkedin.com/in/mohammad-junaid-30564b2a8
 - 💻 GitHub: https://github.com/Mdjunaid06
 
 ---
